@@ -1,0 +1,2 @@
+# Minimum-Spanning-Tree
+I have created a mesh network consisting of 9 nodes each of which can relay packets of data. I found out the minimum cost paths sufficient to connect all the nodes, thus eliminating redundant paths and saving cost (Minimum Spanning Tree) using Prim's Algorithm. Network Simulator 2 is used as a tool to show the simulation of the network by demonstrating the packet flow in it.
